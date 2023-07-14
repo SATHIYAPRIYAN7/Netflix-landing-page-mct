@@ -2,6 +2,13 @@
 
 https://sathiyapriyan7.github.io/Netflix-landing-page-mct/
 
+
+
+This hosted link will may show some security warning in chrome pls try to open in any other browser.
+
+
+
+
 1.This project is clone of netflix landing page.
 
 
@@ -16,6 +23,7 @@ https://sathiyapriyan7.github.io/Netflix-landing-page-mct/
 
 
 4.This project is developed for geekster mct.
+
 
 
 
