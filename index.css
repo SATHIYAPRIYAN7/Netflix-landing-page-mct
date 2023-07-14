@@ -16,6 +16,10 @@ body{
       margin-top: 35px;
 
 }
+
+.foot p{
+    cursor: pointer;
+}
 .accordin li{
 list-style: none;
 width: 100%;
