@@ -1,5 +1,10 @@
 # Netflix-landing-page-mct
 
+
+https://github.com/SATHIYAPRIYAN7/Netflix-landing-page-mct/assets/135238724/e535134e-70c1-4f8d-b559-d702762ca9ce
+
+
+
 https://sathiyapriyan7.github.io/Netflix-landing-page-mct/
 
 
