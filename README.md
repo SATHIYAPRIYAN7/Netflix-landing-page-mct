@@ -9,7 +9,7 @@ https://sathiyapriyan7.github.io/Netflix-landing-page-mct/
 
 
 
-This hosted link will may show some security warning in chrome pls try to open in any other browser.
+This hosted link will may show some security warning in chrome pls try to open in any other browser
 
 
 
